@@ -11,7 +11,7 @@
     <message>
         <location filename="bootselectiondialog.cpp" line="59"/>
         <source>Error mounting settings partition</source>
-        <translation>Error al montar la partició de opciones</translation>
+        <translation>Error al montar las opciones de partición</translation>
     </message>
     <message>
         <location filename="bootselectiondialog.cpp" line="301"/>
@@ -31,23 +31,23 @@
     <message>
         <location filename="bootselectiondialog.cpp" line="366"/>
         <source>PINN - Previously selected OS will boot in %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>PINN - El sistema operativo previamente seleccionado se iniciará en %1 segundos</translation>
     </message>
     <message>
         <location filename="bootselectiondialog.ui" line="25"/>
         <location filename="bootselectiondialog.cpp" line="361"/>
         <source>PINN - Select OS to boot</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar sistema operativo para iniciar</translation>
     </message>
     <message>
         <location filename="bootselectiondialog.ui" line="45"/>
         <source>Sticky default</source>
-        <translation type="unfinished"></translation>
+        <translation>Sticky predeterminado</translation>
     </message>
     <message>
         <location filename="bootselectiondialog.ui" line="52"/>
         <source>BOOT</source>
-        <translation type="unfinished"></translation>
+        <translation>Arranque</translation>
     </message>
 </context>
 <context>
@@ -55,17 +55,17 @@
     <message>
         <location filename="confeditdialog.ui" line="22"/>
         <source>Config editor</source>
-        <translation>Editor de configuració</translation>
+        <translation>Editor de configuración</translation>
     </message>
     <message>
         <location filename="confeditdialog.cpp" line="82"/>
         <source>Error</source>
-        <translation></translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="confeditdialog.cpp" line="83"/>
         <source>Error mounting boot partition</source>
-        <translation>Error montando la partició de arranque</translation>
+        <translation>Error montando la partición de arranque</translation>
     </message>
 </context>
 <context>
@@ -74,22 +74,22 @@
         <location filename="initdrivethread.cpp" line="39"/>
         <location filename="initdrivethread.cpp" line="70"/>
         <source>Mounting FAT partition</source>
-        <translation>Montando partició FAT</translation>
+        <translation>Montando partición FAT</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="63"/>
         <source>Formatting settings partition</source>
-        <translation>Formateando la partició de opciones</translation>
+        <translation>Formateando la partición de opciones</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="66"/>
         <source>Error formatting settings partition</source>
-        <translation>Error al formatear la partició de opciones.</translation>
+        <translation>Error al formatear la partición de opciones.</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="73"/>
         <source>Error mounting system partition.</source>
-        <translation>Error al montar la partició del sistema.</translation>
+        <translation>Error al montar la partición del sistema.</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="78"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="initdrivethread.cpp" line="111"/>
         <source>Unmounting boot partition</source>
-        <translation>Desmontando partició de arranque</translation>
+        <translation>Desmontando partición de arranque</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="174"/>
@@ -124,7 +124,7 @@
     <message>
         <location filename="initdrivethread.cpp" line="215"/>
         <source>Resizing FAT partition</source>
-        <translation>Cambiando tamañ de la partició FAT</translation>
+        <translation>Cambiando tamaño de la partición FAT</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="114"/>
@@ -134,7 +134,7 @@
     <message>
         <location filename="initdrivethread.cpp" line="124"/>
         <source>Mounting boot partition again</source>
-        <translation>Montando partició de arranque de nuevo</translation>
+        <translation>Montando partición de arranque de nuevo</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="135"/>
@@ -145,7 +145,7 @@
         <location filename="initdrivethread.cpp" line="149"/>
         <location filename="initdrivethread.cpp" line="350"/>
         <source>Error unmounting system partition.</source>
-        <translation>Error al desmontar la partició del sistema.</translation>
+        <translation>Error al desmontar la partición del sistema.</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="160"/>
@@ -153,8 +153,8 @@
 WARNING: This will erase all data on your SD card</source>
         <oldsource>Would you like PINN to create one for you?
 WARNING: This will erase all data on your SD card</oldsource>
-        <translation type="unfinished">Te gustaría que PINN creara uno por ti?
-ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
+        <translation>Te gustaría que PINN creara uno por ti?
+AVISO: Esto borrará todos los datos de tu tarjeta SD</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="161"/>
@@ -171,7 +171,7 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
         <location filename="initdrivethread.cpp" line="169"/>
         <location filename="initdrivethread.cpp" line="357"/>
         <source>Error zero&apos;ing MBR/GPT. SD card may be broken or advertising wrong capacity.</source>
-        <translation>Error al resetear MBR/GPT. La tarjeta SD podría estar rota o indicar una capacidad erróea.</translation>
+        <translation>Error al resetear MBR/GPT. La tarjeta SD podría estar rota o indicar una capacidad errónea.</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="182"/>
@@ -182,12 +182,12 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
         <location filename="initdrivethread.cpp" line="190"/>
         <source>SD card has now been formatted ready for PINN installation. Please re-copy the PINN files onto the card and reboot</source>
         <oldsource>SD card has now been formatted ready for PINN installation. Please re-copy the PINN files onto the card and reboot</oldsource>
-        <translation type="unfinished">La tarjeta SD ha sido formateadra y está lista para PINN. Por favor, copia de nuevo los archivos de PINN en la tarjeta y reinicia</translation>
+        <translation>Tarjeta SD formateada y lista para la instalación de PINN. Copie de nuevo los archivos de PINN en la tarjeta SD y reinicie</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="195"/>
         <source>SD card has not been formatted correctly. Please reformat using the SD Association Formatting Tool and try again.</source>
-        <translation>La tarjeta SD no ha sido formateada correctamente. Por favor, reformatéala usando la herramienta de formateo y prueba de nuevo.</translation>
+        <translation>La tarjeta SD no ha sido formateada correctamente. Por favor, reformatéela usando la herramienta de formateo y pruebe de nuevo.</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="201"/>
@@ -197,57 +197,57 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
     <message>
         <location filename="initdrivethread.cpp" line="239"/>
         <source>Error resizing existing FAT partition</source>
-        <translation>Error al cambiar el tamañ de la partició FAT existente</translation>
+        <translation>Error al cambiar el tamaño de la partición FAT existente</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="245"/>
         <source>Creating extended partition</source>
-        <translation>Creando partició extendida</translation>
+        <translation>Creando partición extendida</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="276"/>
         <source>Error creating extended partition</source>
-        <translation>Error al crear partició extendida</translation>
+        <translation>Error al crear partición extendida</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="342"/>
         <source>Saving boot files to memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardando archivos de arranque en la memoria</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="345"/>
         <source>Error saving boot files to memory. SD card may be damaged.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error guardando archivos de arranque en la memoria. La tarjeta SD puede dañarse</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="361"/>
         <source>Creating partitions</source>
-        <translation type="unfinished"></translation>
+        <translation>Creando particiones</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="365"/>
         <source>Error partitioning</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de particionamiento</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="369"/>
         <source>Formatting boot partition (fat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Formateando partición de arranque (fat)</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="372"/>
         <source>Error formatting boot partition (fat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Error formateando partición de arranque (fat)</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="376"/>
         <source>Copying boot files to storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando archivos de arranque al almacenamiento</translation>
     </message>
     <message>
         <location filename="initdrivethread.cpp" line="452"/>
         <source>Setting disk volume ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración del ID de volumen del disco</translation>
     </message>
 </context>
 <context>
@@ -273,7 +273,7 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
     <message>
         <location filename="mainwindow.ui" line="59"/>
         <source>Destination drive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad de destino</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="82"/>
@@ -288,7 +288,7 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
     <message>
         <location filename="mainwindow.ui" line="131"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>barra de tareas</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="210"/>
@@ -298,7 +298,7 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
     <message>
         <location filename="mainwindow.ui" line="213"/>
         <source>Installs the selected operating system image onto this SD card.</source>
-        <translation>Instala el sistema operativo seleccionado en la tarjeta SD.</translation>
+        <translation>Instala el sistema operativo seleccionado en esta tarjeta SD.</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="216"/>
@@ -318,52 +318,52 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
     <message>
         <location filename="mainwindow.ui" line="294"/>
         <source>Wifi (w)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wifi (w)</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="312"/>
         <source>Password (p)</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña (p)</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="315"/>
         <source>Change password</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar contraseña</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="318"/>
         <source>P</source>
-        <translation type="unfinished"></translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="330"/>
         <source>Backup (b)</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup (b)</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="333"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="348"/>
         <source>fschk (f)</source>
-        <translation type="unfinished"></translation>
+        <translation>fschk (f)</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="351"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="363"/>
         <source>Clone (c)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clonar (c)</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="366"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="170"/>
@@ -374,17 +374,17 @@ ADVERTENCIA: Esto borrará todos los datos de tu tarjeta SD</translation>
     <message>
         <location filename="mainwindow.ui" line="243"/>
         <source>Advanced (a)</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado (a)</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="249"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="261"/>
         <source>Edit config (e)</source>
-        <translation>Editar configuració (e)</translation>
+        <translation>Editar configuración (e)</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="264"/>
@@ -909,27 +909,27 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="passwd.cpp" line="226"/>
         <source>Very Weak</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy débil</translation>
     </message>
     <message>
         <location filename="passwd.cpp" line="227"/>
         <source>Weak</source>
-        <translation type="unfinished"></translation>
+        <translation>Débil</translation>
     </message>
     <message>
         <location filename="passwd.cpp" line="228"/>
         <source>Good</source>
-        <translation type="unfinished"></translation>
+        <translation>Bueno</translation>
     </message>
     <message>
         <location filename="passwd.cpp" line="229"/>
         <source>Strong</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuerte</translation>
     </message>
     <message>
         <location filename="passwd.cpp" line="230"/>
         <source>Very Strong</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy fuerte</translation>
     </message>
 </context>
 <context>
@@ -950,12 +950,12 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="languagedialog.cpp" line="27"/>
         <source>OK</source>
-        <translation></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="languagedialog.cpp" line="28"/>
         <source>&amp;OK</source>
-        <translation></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location filename="languagedialog.cpp" line="29"/>
@@ -985,22 +985,22 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="languagedialog.cpp" line="34"/>
         <source>&amp;No</source>
-        <translation></translation>
+        <translation>&amp;No</translation>
     </message>
     <message>
         <location filename="languagedialog.cpp" line="35"/>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <location filename="languagedialog.cpp" line="36"/>
         <source>Show Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar detalles...</translation>
     </message>
     <message>
         <location filename="languagedialog.cpp" line="37"/>
         <source>Hide Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar detalles...</translation>
     </message>
 </context>
 <context>
@@ -1008,7 +1008,7 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="wifisettingsdialog.ui" line="22"/>
         <source>Wifi network selection</source>
-        <translation>Selecció de red wifi</translation>
+        <translation>Selección de red wifi</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.ui" line="28"/>
@@ -1018,22 +1018,22 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="wifisettingsdialog.ui" line="55"/>
         <source>Authentication method</source>
-        <translation>Método de autenticació</translation>
+        <translation>Método de autenticación</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.ui" line="64"/>
         <source>Pressing the WPS button on my wifi router</source>
-        <translation>Pulsando el botó WPS en mi router wifi</translation>
+        <translation>Pulsando el botón WPS en mi router wifi</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.ui" line="71"/>
         <source>Password authentication</source>
-        <translation>Autenticació con contraseña</translation>
+        <translation>Autenticación con contraseña</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.ui" line="96"/>
         <source>Username</source>
-        <translation>Usuario</translation>
+        <translation>Nombre de usuario</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.ui" line="110"/>
@@ -1043,7 +1043,7 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="wifisettingsdialog.ui" line="124"/>
         <source>Show Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar contraseña</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.cpp" line="44"/>
@@ -1053,17 +1053,17 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="wifisettingsdialog.cpp" line="44"/>
         <source>No wifi interfaces available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay interfaces de wifi disponibles</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.cpp" line="227"/>
         <source>Authenticated but still waiting for DHCP lease</source>
-        <translation>Autenticado pero esperando por la concesió DHCP</translation>
+        <translation>Autenticado pero esperando por la concesión DHCP</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.cpp" line="234"/>
         <source>Connecting to wifi failed</source>
-        <translation>Conexió al wifi fallida</translation>
+        <translation>Conexión al wifi fallida</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.cpp" line="234"/>
@@ -1073,7 +1073,7 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="wifisettingsdialog.cpp" line="275"/>
         <source>Releasing old DHCP lease</source>
-        <translation>Liberando concesió DHCP antigua</translation>
+        <translation>Liberando concesión DHCP antigua</translation>
     </message>
     <message>
         <location filename="wifisettingsdialog.cpp" line="269"/>
