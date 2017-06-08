@@ -808,7 +808,7 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="multiimagewritethread.cpp" line="529"/>
         <source>%1: Mounting FAT partition</source>
-        <translation>%1: Montando partició FAT</translation>
+        <translation>%1: Montando particion FAT</translation>
     </message>
     <message>
         <location filename="multiimagewritethread.cpp" line="541"/>
@@ -823,22 +823,22 @@ Te gustaría que este cambio fuera permanente?</translation>
     <message>
         <location filename="multiimagewritethread.cpp" line="577"/>
         <source>%1: Running partition setup script</source>
-        <translation>%1: Ejecutando programa de instalació de particiones</translation>
+        <translation>%1: Ejecutando programa de instalacion de particiones</translation>
     </message>
     <message>
         <location filename="multiimagewritethread.cpp" line="626"/>
         <source>%1: Error executing partition setup script</source>
-        <translation>%1: Error al ejecutar el programa de instalació de particiones</translation>
+        <translation>%1: Error al ejecutar el programa de instalacion de particiones</translation>
     </message>
     <message>
         <location filename="multiimagewritethread.cpp" line="635"/>
         <source>%1: Configuring flavour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: Configurando sabor</translation>
     </message>
     <message>
         <location filename="multiimagewritethread.cpp" line="649"/>
         <source>%1: Unmounting FAT partition</source>
-        <translation>%1: Desmontando partició FAT</translation>
+        <translation>%1: Desmontando particion FAT</translation>
     </message>
     <message>
         <location filename="multiimagewritethread.cpp" line="652"/>
